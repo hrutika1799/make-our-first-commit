@@ -1,2 +1,2 @@
 # make-our-first-commit
-university management system
+my first git repository
